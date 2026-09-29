@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/DesignPatterns/">
+    <Project Path="csharp-creational-patterns-lab/src/PatternsLab.Runner/PatternsLab.Runner.csproj" />
+    <Project Path="csharp-creational-patterns-lab/src/PatternsLab/PatternsLab.csproj" />
+  </Folder>
+  <Folder Name="/leetcode/">
+    <File Path="../../../../OneDrive/Pictures/Screenshots/letcodeTASKK.png" />
+    <File Path="leetcode.md" />
+    <File Path="MaxVowelsInSubstring.cs" />
+  </Folder>
+  <Folder Name="/src/">
+    <File Path="Responsibilities.md" />
+    <Project Path="../../csharp-srp-violations/src/SrpLab.Runner/SrpLab.Runner.csproj" />
+    <Project Path="../../csharp-srp-violations/src/SrpLab/SrpLab.csproj" />
+  </Folder>
+</Solution>
